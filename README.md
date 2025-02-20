@@ -1,6 +1,6 @@
 # Hi, I'm Rohit Kumar Manne 👋
 
-👨‍💻 **Full Stack Developer** | 🌐 **Cloud & ML Enthusiast** | 🎓 **MS in Computer Science @ University of Dayton**
+👨‍💻 **Senior Software Engineer** | 🌐 **Cloud & ML Enthusiast** | 🎓 **MS in Computer Science @ University of Dayton**
 
 ## About Me
 
