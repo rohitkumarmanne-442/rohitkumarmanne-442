@@ -1,87 +1,88 @@
 # Hi, I'm Rohit Kumar Manne 👋
 
-👨‍💻 **Senior Software Engineer** | 🌐 **Cloud & ML Enthusiast** | 🎓 **MS in Computer Science @ University of Dayton**
+🚀 **AI Engineer @ Hilton Worldwide** | 🤖 **Generative AI Specialist** | ☁️ **Cloud & MLOps Architect**
 
-## About Me
+## 👨‍💻 About Me
 
-My tech journey began during my Bachelor's in Electronics and Communication Engineering. It felt like magic when I first built a simple Java application, and that sparked my curiosity about how software systems work at scale. My professors' emphasis on strong fundamentals in algorithms and data structures initially seemed overwhelming, but little did I know, it would become the foundation of my software engineering career! 💡
+I am an **AI Engineer** passionate about building scalable Intelligent Systems. Currently, I am driving AI innovation at **Hilton Worldwide**, where I architected the **"Hilton QE Agent"**—a GenAI solution using **Amazon Bedrock (Claude 3.5)** and **RAG** pipelines that reduced manual test efforts by **70%**.
 
-Fast forward to today, I'm pursuing my Master's in Computer Science at the University of Dayton, specializing in Advanced Intelligent Systems and Deep Learning. Through my journey from building small applications to architecting systems processing 50,000+ documents daily at Capgemini, I've learned that the best software solutions come from understanding both the technical depth and the human aspect of problems. 🚀
+With a Master's in Computer Science from the **University of Dayton**, I bridge the gap between complex Deep Learning research and production-grade software. My expertise lies in orchestrating Large Language Models (LLMs), optimizing MLOps pipelines, and building full-stack AI applications.
 
-## Current Focus 🎯
+Previously, I engineered AI solutions for **HealthKard** (Healthcare Chatbots) and **Capgemini** (Fraud Detection Systems processing 10k+ daily claims).
 
-Currently advancing my expertise in:
-- Deep Learning & AI Systems - Exploring PyTorch, TensorFlow, and HuggingFace
-- Cloud-Native Applications - AWS, Docker, Kubernetes
-- Scalable System Design - Microservices, Event-Driven Architecture
-- Full Stack Development - MERN & Spring Boot Ecosystem
+## 🎯 Current Focus
 
-## Technical Skills 🛠️
+- **Generative AI:** Building RAG pipelines with LangChain, Vector Databases, and Amazon Bedrock.
+- **Agentic Workflows:** Designing autonomous agents that can diagnose errors (Splunk) and execute API calls.
+- **MLOps:** Deploying models using Docker, Kubernetes, and Kafka on AWS.
 
-### Frontend Development
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+---
 
-### Backend Development
+## 🛠️ Technical Arsenal
+
+### 🧠 AI & Machine Learning
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/-AWS%20Bedrock-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+### 🌐 Full Stack & API
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React_Vite-61DAFB?style=flat&logo=react&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### Databases & Cloud
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=white)
+### ☁️ Cloud, DevOps & Data
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white)
-
-### DevOps & Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=Apache%20Kafka&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
+![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)
 
-## Featured Projects
+---
 
-### 🎭 Face-Generation-Diffusion | [GitHub](your-link)
-Advanced AI implementation using:
-- PyTorch & HuggingFace Transformers
-- CUDA for GPU optimization
-- TensorBoard for visualization
-- MLflow for experiment tracking
-- Docker for containerization
+## ⚡ Featured Projects
 
-### 🏠 HOME360-Home Services Platform | [GitHub](your-link)
-Full-stack application featuring:
-- Django REST Framework backend
-- React with Redux frontend
-- PostgreSQL & Redis databases
-- WebSocket for real-time features
-- Stripe API integration
-- AWS deployment
+### 🎭 Face-Generation-Diffusion | [GitHub](https://github.com/rohitkumarmanne-422/Face-Generation-Diffusion)
+*Custom Diffusion Model for High-Fidelity Image Synthesis*
+- **Tech:** PyTorch, HuggingFace, CUDA, Python.
+- **Impact:** Achieved **85% FID score improvement** and **70% faster inference** using mixed-precision training and gradient checkpointing on 100k+ images.
+
+### 📉 Automated Log Anomaly Detection | [GitHub](your-link-here)
+*Unsupervised Anomaly Detection for Server Logs*
+- **Tech:** LSTM Autoencoders, TensorFlow, Docker, Kafka.
+- **Impact:** Designed a time-series model achieving **91% accuracy** in detecting system failures, deployed via Docker for real-time stream processing.
+
+---
 
 ## 🏆 Achievements
 
-- Smart India Hackathon 2020 Winner: ML-powered crime reporting system using TensorFlow & Flask
-- CodeFest 2021 Winner: Real-time disaster management platform using MERN stack
-- Bonjour India 2017 Runner-up: IoT-based drainage cleaning robot using Arduino & Python
-- Champions of Champions 2020: Electric vehicle design using CAD & embedded systems
+- 🥇 **Winner, Smart India Hackathon 2020:** Developed an ML-powered interactive crime reporting system.
+- 🥇 **Winner, CodeFest 2021:** Built a real-time disaster management platform.
+- 🥈 **Runner-up, Bonjour India 2017:** Robotics implementation for the French Embassy.
+- 🏆 **Oracle Certified:** OCI Generative AI Professional (2025) & OCI Data Science Professional (2025).
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitkumarmanne-442&show_icons=true&theme=radical" alt="Rohit's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumarmanne-442&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
 
 ## Let's Connect! 🤝
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/rohitkumarmanne)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/rohitkumarmanne-442)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:rohitkumarmanne1@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/rohitkumarmanne-442/)
 
-*Based in Dayton, OH and open to relocating! Let's build something amazing together! ✨*
+*Open to relocation for full-time opportunities in AI/ML Engineering.*
